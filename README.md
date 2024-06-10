@@ -182,7 +182,7 @@ print(result)
 ```
 
 ### Processes Example
-See the highly commented code directly above for implementation. (Check out [[The Path/Tech/CodeDocs/docs.crewai.com/tools/CodeDocsSearchTool|CodeDocsSearchTool]] tool)
+See the highly commented code directly above for implementation. 
 ```python
 from crewai import Crew
 from crewai.process import Process
@@ -259,7 +259,7 @@ dependencies: []
 
 You can use this file to quickly detail your agents and tasks files. Use chatGPT to load in the example files above (crewAI example files & praisonai `agents.yaml`) to quickly build the code. 
 
-# Using [[The Path/Tech/CodeDocs/docs.phidata.com/index|phidata]] for easy tool integration
+# Using phidata for easy tool integration
 
 Based on the information provided in the search results, it is possible to use Phidata to create tools that can be integrated with CrewAI agents. Here's how you can approach this:
 
@@ -385,7 +385,7 @@ Citations:
 [4] https://github.com/joaomdmoura/crewAI/issues/20
 [5] https://stackoverflow.com/questions/78466708/crewai-not-finding-co-worker
 
-# Using [[The Path/Tech/CodeDocs/python.langchain.com/v0.1/docs/modules/tools/custom_tools|langchain custom_tools]] in crewAI
+# Using custom tools in crewAI
 
 CrewAI is built on Langchain. You can integrate the tools in langchain with CrewAI. The Langchain Toolset contains many tools. To integrate them, I imported the Langchain tool documentation into ChatGPT as well as a CrewAI sample tools.py file. 
 ```python
