@@ -7,16 +7,11 @@ This repo was modified from the code found at [[https://alejandro-ao.com/crew-ai
 #### Example File Structure
 ```
 my_crewai_project/ 
-├── .env 
-├── agents/ 
-│ ├── __init__.py 
-│ ├── researcher.py 
-│ └── writer.py 
-├── tools/ 
-│ ├── __init__.py 
-│ └── search_tool.py 
-├── tasks.py 
-├── crew.py 
+├── .env
+|-- .gitignore 
+├── agents.py 
+├── tools.py 
+├── tasks.py  
 ├── requirements.txt (or pyproject.toml if using Poetry) 
 └── main.py
 
