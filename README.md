@@ -28,6 +28,8 @@ In order to set up this crew, we should consider the following concepts: agents,
 
 You will need to create a virtual environment and install dependencies.
 
-Than simply run `python3 main.py` and follow the prompts.
+`pip install crewai 'crewai[tools]'`
+
+Then simply run `python3 main.py` and follow the prompts.
 
 Please let me know what you think and how it can be improved. Thank you and God bless.
