@@ -1,7 +1,7 @@
 # CrewAI_CodeDocsRetrieval
 An experimental crew built to retrieve code documentation and write python code. 
 
-This repo was modified from the code found at [[https://alejandro-ao.com/crew-ai-crash-course-step-by-step/|CrewAi Crash Course by Alejandro Ao]].
+This repo was modified from the code found at [https://alejandro-ao.com/crew-ai-crash-course-step-by-step/|CrewAi Crash Course by Alejandro Ao].
 
 # CrewAI Setup
 #### Example File Structure
